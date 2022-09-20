@@ -248,7 +248,7 @@ export default {
         React Hook Form provides an <code>errors</code> object to show you the
         errors in the form. <code>errors</code>' type will return given
         validation constraints. The following example showcases a required
-        validation rule.
+        validation rule. chiến đại ka chào ae dev
       </p>
     ),
   },
